@@ -1,4 +1,4 @@
-# Linear-bandit-Project
+# Linear-bandit- Academic Project (IASD)
 
 The major problem of The Collaborative filtering technique for recommendations is : **the cold start**. Cold start happens when new users or new items arrive in e-commerce platforms. we have no browse, click or purchase data for them.
 
